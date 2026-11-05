@@ -2,6 +2,7 @@
 
 A photo-rich, responsive road-trip guide from Sydney, styled after [the New Zealand itinerary](https://vitorsei.github.io/nz-trip-itinerary-2026/).
 
+- Opening route map includes overnight bases, mountain outings, the optional extension and approximate driving times. Open it full-size for details.
 - Main route: 24–31 December 2026, eight days and seven nights.
 - Extended route: 24 December–2 January, ten days and nine nights, adding Tumut and Yarrangobilly.
 - Includes Mount Ainslie, Questacon/Mini Q, Charlotte Pass, Rainbow Lake, Porcupine Rocks and Fitzroy Falls.
