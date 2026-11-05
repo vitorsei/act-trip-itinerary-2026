@@ -12,6 +12,10 @@ def photo(url, alt, source):
 ainslie = photo('https://images.trvl-media.com/place/553248621552334752/7047caa9-9a7f-49bd-82f0-d62653f9e018.jpg', 'Canberra and Lake Burley Griffin from Mount Ainslie lookout', 'https://www.expedia.com/Mount-Ainslie-Canberra.d553248621552334752.Vacation-Attraction')
 photos = {k:v['photos'] for k,v in places.items()}
 photos['ainslie'] = [ainslie]
+photos['balloon'] = [
+    photo('https://balloonaloftcanberra.com.au/wp-content/uploads/sites/5677/2022/07/CBR-Autumn_1-1-scaled-e1660535117315.jpg?resize=360%2C240&zoom=2', 'Balloon Aloft Canberra flight above the city', 'https://balloonaloftcanberra.com.au/all-flights/sunrise-balloon-flight/'),
+    photo('https://balloonaloftcanberra.com.au/wp-content/uploads/sites/5677/2020/12/choosecbr.jpg?resize=360%2C240&zoom=2', 'Hot air ballooning with Balloon Aloft Canberra', 'https://balloonaloftcanberra.com.au/all-flights/sunrise-balloon-flight/')
+]
 photos['rainbow'][0] = photo('https://www.snowymagazine.com.au/content/images/2025/11/g0ojZramg2vLlKAonWAW.jpg', 'Rainbow Lake and snow-gum woodland', 'https://www.snowymagazine.com.au/rainbow-lake/')
 photos['newacton'][0] = photo('https://i0.wp.com/thefifthestate.com.au/wp-content/uploads/2015/04/Nishi.jpg?fit=600%2C400&ssl=1', 'Nishi building in NewActon', 'https://thefifthestate.com.au/events/tfeevents/event-news/awards-event-news/canberras-nishi-building-receives-international-acclaim/')
 photos['yarrangobilly'][1] = photo('https://www.nationalparks.nsw.gov.au/-/media/npws/images/parks/kosciuszko-national-park/yarrangobilly-area/south-glory-cave/south-glory-cave-03.jpg', 'South Glory Cave at Yarrangobilly', 'https://www.nationalparks.nsw.gov.au/things-to-do/show-caves/yarrangobilly-south-glory-cave')
@@ -45,6 +49,9 @@ day('day-2','Fri 25 Dec',2,'Christmas at the Arboretum and the lake','Canberra �
 ('Afternoon','Take a short Lake Burley Griffin stroll around Commonwealth Park or the National Carillon. Add Mount Ainslie’s drive-up lookout here if you skipped it yesterday.')],
 'Arboretum grounds and the POD playground are listed as open daily. The visitor centre, café and bonsai collection close on 25 December. Keep this a flexible outdoor Christmas, especially if the day is hot.',
 ps('arboretum','lake','ainslie'), [('https://www.nationalarboretum.act.gov.au/visit/opening-hours','Arboretum holiday hours'),('https://www.nca.gov.au/attractions/national-carillon','National Carillon')])
+days[-1]['swap'] = ('Optional sunrise balloon flight', 'If Balloon Aloft Canberra confirms a 25 December service, eligible adults can fly before a later, shorter Arboretum visit. Meet about 30 minutes before sunrise at the Hyatt Hotel Canberra; allow 3–4 hours total for a 45–60-minute flight, plus an extra hour if choosing breakfast. Minimum age is 6: your one-year-old cannot fly, so arrange a non-flying adult to care for them. Christmas availability and the exact meeting time are unconfirmed; flights depend on weather. Keep the original morning plan if it does not run.')
+days[-1]['links'].extend([('https://balloonaloftcanberra.com.au/all-flights/sunrise-balloon-flight/', 'Optional Balloon Aloft flight and timing'), ('https://balloonaloftcanberra.com.au/faq/', 'Minimum age and cancellation information')])
+days[-1]['images'][2] = photos['balloon'][0]
 
 day('day-3','Sat 26 Dec',3,'Questacon, Mini Q and the journey south','Jindabyne · 1 of 4 nights','Indoor play + travel day','Canberra → Cooma → Jindabyne · about 2½ hr driving',[
 ('9am–noon','Visit Questacon, including Mini Q’s play space for ages 0–6. Book general admission ahead. Mini Q may use timed sessions allocated on arrival in busy periods.'),
@@ -132,8 +139,10 @@ def jump(d):
 
 checklist=[('Choose the return route','31 Dec via the Highlands, or 2 Jan with Tumut and Yarrangobilly. Add another Jindabyne night if you want both lake and rocks walks on separate days.'),('Book accommodation with a private bathroom','Canberra 24–25 Dec; Jindabyne 26–29 Dec; Highlands 30 Dec. For the extension: Tumut 30–31 Dec, Highlands 1 Jan. Confirm cot, parking, kitchen and minimum stays.'),('Book Questacon general admission','26 Dec morning. Check Mini Q peak-period session arrangements and allow time for lunch before the drive south.'),('Confirm Thredbo infant and carrier arrangements','Check the exact lift, loading procedure, operating dates and last return time before buying tickets.'),('Confirm cave and pool plans','If extending, ask Yarrangobilly Visitor Centre about the baby, carrier clearance, cave steps and current tour bookings.'),('Buy Christmas supplies on 24 December','Food, feeding supplies, nappies and drinking water. Reserve any Christmas meal and check reception opening hours.'),('Recheck roads, trails and mountain weather','Use NPWS, Parks ACT, BOM and Live Traffic NSW. Swap the three mountain days around for conditions.'),('Pack for the carrier and summer mountains','Warm and waterproof layers for both of you, sun protection, water, meals, nappies and offline route information. Allow frequent breaks out of the restraint.')]
 
+checklist.append(('Optional balloon flight: confirm the date and childcare', 'Ask Balloon Aloft Canberra about 25 December service, or a 26 December backup, the exact meeting time, date-specific fare and weather cancellation terms. Minimum age 6; arrange a non-flying adult for your baby. Flight tickets and breakfast are extra to the trip budget.'))
+
 all_photos={p['url']:p for d in days for p in d['images']}
-for key in ['civic','newacton','kingston','zoo','tidbinbilla','arboretum','rainbow','porcupine','fitzroy','yarrangobilly','tumut']:
+for key in ['civic','newacton','kingston','zoo','tidbinbilla','arboretum','rainbow','porcupine','fitzroy','yarrangobilly','tumut','balloon']:
     all_photos.update({p['url']:p for p in photos[key]})
 
 must=[('ainslie','Mount Ainslie','day-1'),('questacon','Questacon + Mini Q','day-3'),('charlotte','Charlotte Pass','day-4'),('rainbow','Rainbow Lake','day-6'),('porcupine','Porcupine Rocks','day-6'),('fitzroy','Fitzroy Falls','day-8'),('yarrangobilly','Yarrangobilly','ext-2'),('tumut','Tumut + river','ext-1')]
@@ -182,6 +191,7 @@ highlights=''.join(f'<a class="must-card" data-place="{key}" href="#{id}"><img s
 
 alternatives=[]
 for title,keys,copy,url in [
+('Balloon Aloft Canberra · optional sunrise flight',['balloon','balloon'],'First choice: 25 December sunrise, only if the operator confirms Christmas service. Allow 3–4 hours total for a 45–60-minute flight; breakfast adds about an hour. Meet at the Hyatt Hotel Canberra roughly 30 minutes before sunrise, at the time advised by the operator. Minimum age 6: your baby cannot fly, and needs a non-flying adult. If using 26 December as a confirmed backup, replace Questacon that morning and move Questacon to 24 December only with an early enough arrival, or to the return journey with a revised Canberra stop. Do not squeeze both into the departure morning. Check the date-specific fare; tickets and breakfast are extra to the trip budget. Weather cancellations can mean rebooking or a refund under the operator’s terms.','https://balloonaloftcanberra.com.au/all-flights/sunrise-balloon-flight/'),
 ('Civic, Braddon and NewActon',['civic','newacton'],'A 2–3-hour city wander and early meal. Braddon suits cafés and small shops; NewActon adds Nishi’s architecture. Choose a precinct on the arrival evening rather than driving between them all.','https://trade.visitcanberra.com.au/Visit/Publications/neighbourhood-guide-city.pdf'),
 ('Kingston Foreshore',['kingston','kingston'],'Choose waterfront dinner and a pram stroll instead of Braddon. Check Christmas Eve service at your chosen restaurant; normal trading hours are not a holiday guarantee.','https://visitcanberra.com.au/our-neighbourhoods/inner-south/kingston-and-foreshore'),
 ('Zoo or Tidbinbilla',['zoo','tidbinbilla'],'Both replace Questacon on 26 December. The zoo opens at 9:30am; allow about three hours. The Sanctuary at Tidbinbilla offers bushland and wetlands but adds access driving. Both close Christmas Day.','https://www.tidbinbilla.act.gov.au/visit'),

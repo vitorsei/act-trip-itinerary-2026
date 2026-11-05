@@ -8,6 +8,7 @@ A photo-rich, responsive road-trip guide from Sydney, styled after [the New Zeal
 - Rainbow Lake and Porcupine Rocks are alternatives on the flexible mountain day; the guide explains the effort of combining them or adding another night.
 - Route selection updates visible days, dates, overnight allocations and the shareable URL (`?route=extended`).
 - Browser-local booking checklist, map/source links and print styling.
+- Optional Balloon Aloft Canberra sunrise flight on 25 December, conditional on confirmed holiday service, with a 26 December replacement option. Minimum age six; the baby needs a non-flying adult. Flight costs are additional.
 
 ## View and edit
 
