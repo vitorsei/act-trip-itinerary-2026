@@ -1,0 +1,784 @@
+[
+  {
+    "id": "goulburn",
+    "area": "On the way",
+    "title": "Goulburn and Belmore Park",
+    "fit": "Easy stop",
+    "stats": "45\u201390 min visit \u00b7 Free park",
+    "description": "A practical first break from Sydney: picnic gardens, toilets and a playground. The Big Merino is an optional photo stop, rather than a reason to stay overnight.",
+    "baby": "An easy place for feeding, changing and time out of the car. The Big Merino and Belmore Park are separate stops.",
+    "timing": "24 December, on the way to Canberra.",
+    "source": "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/belmore-park",
+    "photos": [
+      {
+        "url": "https://www.goulburnpost.com.au/images/transform/v1/crop/frm/FkT3ZusFw5YrTvZCipmLUF/025097bb-39ab-4580-960d-3fc1db7aa80a.JPG/r0_0_4288_2848_w1200_h678_fmax.jpg",
+        "alt": "Belmore Park Gazebo",
+        "source": "https://www.goulburnpost.com.au/story/6410075/state-sinks-hopes-of-funding-for-water-projects/"
+      },
+      {
+        "url": "https://assets.architecturaldigest.in/photos/65f41834e1d58ef01af081c9/master/w_1024%2Cc_limit/GettyImages-78149490.jpg",
+        "alt": "The Big Merino",
+        "source": "https://www.architecturaldigest.in/gallery/12-quirky-buildings-shaped-like-animals/"
+      }
+    ]
+  },
+  {
+    "id": "lake",
+    "area": "Canberra",
+    "title": "Lake Burley Griffin, Commonwealth Park and Carillon",
+    "fit": "Easy stop",
+    "stats": "1\u20132 hours at your own pace \u00b7 Free outdoor outing",
+    "description": "Choose a short section of lakeside path and a picnic. Commonwealth Park and the National Carillon are distinct places along the lake; you do not need to walk the full bridge-to-bridge circuit.",
+    "baby": "Good for a pram and a flexible outing around naps. Stay beside your baby near the water.",
+    "timing": "Christmas Day, or an arrival-afternoon stroll.",
+    "source": "https://www.nca.gov.au/attractions/national-carillon",
+    "photos": [
+      {
+        "url": "https://gml.com.au/wp-content/uploads/2022/05/lake-burley-grfiin-and-carliion-scaled.jpg",
+        "alt": "Lake Burley Griffin and National Carillon",
+        "source": "https://gml.com.au/news/lake-burley-griffin-added-to-commonwealth-heritage-list/"
+      },
+      {
+        "url": "https://assets.atdw-online.com.au/images/Original__9016727_ACTC_Swell1622_zhtmmqr.jpg?auto=enhance%2Ccompress&crop=faces&fit=crop&h=866&w=400",
+        "alt": "Commonwealth Park family stroll",
+        "source": "https://visitcanberra.com.au/attractions/56b23ba53ed14ca745318326/commonwealth-park"
+      }
+    ]
+  },
+  {
+    "id": "arboretum",
+    "area": "Canberra",
+    "title": "National Arboretum and POD Playground",
+    "fit": "Easy stop",
+    "stats": "1\u20132 hours \u00b7 Main car park charges apply",
+    "description": "Sweeping views, planted forests and unusual play structures. Dairy Farmers Hill is a good place to appreciate the setting. The taller climbing pods are primarily an attraction for older children.",
+    "baby": "Choose short walks and open space. Go early if it is hot; some areas have little shade.",
+    "timing": "25 December: grounds and playground open daily under the current schedule. Caf\u00e9, visitor centre and bonsai collection close on Christmas Day.",
+    "source": "https://www.nationalarboretum.act.gov.au/visit/opening-hours",
+    "photos": [
+      {
+        "url": "https://www.nationalarboretum.act.gov.au/__data/assets/image/0003/2581140/Dairy-Farmers-Hill.jpg",
+        "alt": "Dairy Farmers Hill views",
+        "source": "https://www.nationalarboretum.act.gov.au/living-collections/image-gallery"
+      },
+      {
+        "url": "https://visitcanberra.com.au/Visit/Images/57149/image-thumb__57149__Hero/pod-playground.jpg",
+        "alt": "POD Playground at the National Arboretum",
+        "source": "https://visitcanberra.com.au/articles/10-cool-things-to-do-with-the-kids"
+      }
+    ]
+  },
+  {
+    "id": "civic",
+    "area": "Canberra",
+    "title": "Civic and Canberra Centre",
+    "fit": "Easy stop",
+    "stats": "1\u20132 hours \u00b7 Shopping and supplies",
+    "description": "Explore Garema Place and the pedestrian streets, then pick up groceries. This is a useful city wander rather than a major nature destination.",
+    "baby": "Easy to shorten if your baby is tired. Canberra Centre provides an indoor break from the heat.",
+    "timing": "24 Dec: centre 9am\u20135pm. 25 Dec: closed. 26 Dec: 8am\u20136pm. Individual businesses can differ.",
+    "source": "https://canberracentre.qicre.com/whats-on/news/black-friday-and-christmas-extended-trade-hours/",
+    "photos": [
+      {
+        "url": "https://image-tc.galaxy.tf/wijpeg-99zi7r1jgx1nlr6kwerdh3m62/garema-place-october-2017_standard.jpg?crop=0%2C0%2C1000%2C750&width=928",
+        "alt": "Garema Place Plaza in Canberra",
+        "source": "https://www.nesuto.com/canberra/explore/attractions/garema-place"
+      },
+      {
+        "url": "https://3.bp.blogspot.com/-7b5kvXQOxhQ/Vy6oMppqc9I/AAAAAAABehk/KcyI5OIEBgw_8S4V3YXaIyNEn9zWukntQCPcB/w1200-h630-p-k-no-nu/14-DSC00418.JPG",
+        "alt": "Sculpture in Garema Place",
+        "source": "https://tofuphotography.blogspot.com/2017/05/another-sculpture-in-garema-place-in.html"
+      }
+    ]
+  },
+  {
+    "id": "braddon",
+    "area": "Canberra",
+    "title": "Braddon and Lonsdale Street",
+    "fit": "Easy stop",
+    "stats": "1\u20132 hours \u00b7 Caf\u00e9 or early dinner",
+    "description": "The city outing I would prioritise for caf\u00e9s, small shops and an early meal. Combine with nearby Civic rather than planning a separate half-day.",
+    "baby": "Choose a relaxed venue with space for the pram. Confirm Christmas Eve service before relying on a particular restaurant.",
+    "timing": "24 December after checking in, or the return journey.",
+    "source": "https://trade.visitcanberra.com.au/Visit/Publications/neighbourhood-guide-city.pdf",
+    "photos": [
+      {
+        "url": "https://res-1.cloudinary.com/cre/image/fetch/w_984%2Ch_558%2Cc_limit%2Cf_auto%2Cq_auto%2Cd_placeholder_viubzx.png/https%3A/bucket-api.commercialrealestate.com.au/v1/bucket/image/16406221_1_1_230404_064255-w800-h533",
+        "alt": "Street Caf\u00e9 Scene in Braddon",
+        "source": "https://www.commercialrealestate.com.au/property/unit-60-10-12-lonsdale-street-braddon-act-2612-16406221"
+      },
+      {
+        "url": "https://cdn-syd.brandkit.com/accounts/517/files/6G19QE6A199F6879BPJD7MXWCT/thumbnails/694381-1280.webp",
+        "alt": "Students on Lonsdale Street",
+        "source": "https://toolkit.canberra.com.au/asset-page/671786-students-walking-along-lonsdale-street-in-braddon"
+      }
+    ]
+  },
+  {
+    "id": "newacton",
+    "area": "Canberra",
+    "title": "NewActon and Nishi",
+    "fit": "Easy stop",
+    "stats": "30\u201360 min \u00b7 Architecture and public spaces",
+    "description": "An optional architecture stop around the distinctive Nishi building and surrounding precinct. Worth a look if you enjoy design.",
+    "baby": "Short and flexible; outdoor wandering is simplest with the pram.",
+    "timing": "Add to a city afternoon if time and energy allow.",
+    "source": "https://trade.visitcanberra.com.au/Visit/Publications/neighbourhood-guide-city.pdf",
+    "photos": [
+      {
+        "url": "https://www.cbre.com.au/resources/fileassets/AU-7286413-1/b4a9823f/ec17361a-370c-4af8-b97f-b51cd07034f6_Photo_3_large.jpg",
+        "alt": "Nishi Building Entrance",
+        "source": "https://www.cbre.com.au/properties/offices/details/AU-7286413-1/nishi-building-2-phillip-law-street-newacton-nishi-building-2-phillip-law-street-newacton-city-act-2601"
+      },
+      {
+        "url": "https://images.luxuryescapes.com/fl_progressive%2Cq_auto%3Agood/vf0h3nlinliqpl8niodn",
+        "alt": "Nishi Apartments Eco\u2011Living by Ovolo",
+        "source": "https://luxuryescapes.com/au/offer/nishi-apartments-by-ovolo-canberra-act-australia/0062y000009CAYZAA4"
+      }
+    ]
+  },
+  {
+    "id": "kingston",
+    "area": "Canberra",
+    "title": "Kingston Foreshore",
+    "fit": "Easy stop",
+    "stats": "1\u20132 hours \u00b7 Waterfront stroll and meal",
+    "description": "A separate waterfront dining precinct a short drive from Civic. Choose this instead of Braddon when you would prefer dinner beside the water.",
+    "baby": "The promenade makes an easy outing, with close supervision near the water.",
+    "timing": "An early dinner on 24 December, subject to restaurant holiday hours.",
+    "source": "https://visitcanberra.com.au/our-neighbourhoods/inner-south/kingston-and-foreshore",
+    "photos": [
+      {
+        "url": "https://live-production.wcms.abc-cdn.net.au/982220dfafed408c1955f5f8fb72e153?cropH=2000&cropW=2997&height=575&impolicy=wcms_crop_resize&width=862&xPos=1&yPos=0",
+        "alt": "Kingston Foreshore Lakeside Dining",
+        "source": "https://www.abc.net.au/news/specials/curious-canberra/2017-10-23/why-arent-there-more-places-to-eat-and-drink-on-the-shores/9059048"
+      },
+      {
+        "url": "https://res.akamaized.net/domain/image/upload/t_web/c_fill%2Cw_600%2Ch_900/v1752550692/Full_Res_CMTEDD_night_economy_050_zbqbtn.jpg",
+        "alt": "Kingston Foreshore Evening Stroll",
+        "source": "https://www.allhomes.com.au/news/canberra-liveable-dynamic-and-progressive-city-1407808/"
+      }
+    ]
+  },
+  {
+    "id": "questacon",
+    "area": "Canberra",
+    "title": "Questacon and Mini Q",
+    "fit": "Easy stop",
+    "stats": "2\u20133 hours \u00b7 Ticketed attraction",
+    "description": "The indoor choice for Boxing Day. Mini Q is designed for ages 0\u20136 and offers sensory and exploratory play; the other galleries also give the adults plenty to enjoy.",
+    "baby": "Baby-change and feeding facilities are available. Prams stay outside Mini Q in the designated parking area. Peak-period Mini Q sessions may be allocated on arrival.",
+    "timing": "26 December, around 9am\u2013noon, then lunch and the drive south. Questacon closes Christmas Day. Book general admission ahead.",
+    "source": "https://www.questacon.edu.au/whats-on/exhibitions/mini-q",
+    "photos": [
+      {
+        "url": "https://www.questacon.edu.au/sites/default/files/styles/square/public/2025-10/20251027_Mini%20Q%20B%20Roll_009.jpg?itok=zd2Bop6Z",
+        "alt": "Current Mini Q play space",
+        "source": "https://www.questacon.edu.au/whats-on/exhibitions/mini-q"
+      },
+      {
+        "url": "https://region.com.au/wp-content/uploads/2025/10/Questacon-Mini-Q-Mangroves-Waterplay-Zone-1200x800.jpg",
+        "alt": "Current Mini Q mangrove waterplay area",
+        "source": "https://region.com.au/questacon-opens-revamped-world-class-kids-space/917315/"
+      }
+    ]
+  },
+  {
+    "id": "zoo",
+    "area": "Canberra",
+    "title": "National Zoo and Aquarium",
+    "fit": "Easy stop",
+    "stats": "Allow 3\u20134 hours \u00b7 Ticketed attraction",
+    "description": "Choose animals instead of Questacon. This is a substantial outing, so I would not attempt both before driving to Jindabyne.",
+    "baby": "Use the pram for the longer outing and plan shade and feeding breaks. Optional animal encounters can have separate fees and age restrictions.",
+    "timing": "26 December, or on the return journey. Opens 9:30am; closed Christmas Day.",
+    "source": "https://www.nationalzoo.com.au/open-hours",
+    "photos": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/66e7eb031de7305c5f635228/dea2ed83-5c9c-4134-b458-dfe0a27013f6/44_Canberra_ACT_JPEG_07Dec21_Photo.jpg?format=2500w",
+        "alt": "Giraffe at National Zoo and Aquarium",
+        "source": "https://www.nationalzoo.com.au/giraffe"
+      },
+      {
+        "url": "https://media.timeout.com/images/106106554/1920/1080/image.jpg",
+        "alt": "Visitors on a supervised giraffe encounter; encounter conditions apply",
+        "source": "https://www.timeout.com/canberra/attractions/national-zoo-and-aquarium"
+      }
+    ]
+  },
+  {
+    "id": "tidbinbilla",
+    "area": "Canberra",
+    "title": "Tidbinbilla Nature Reserve and The Sanctuary",
+    "fit": "Easy stop",
+    "stats": "Half-day with driving \u00b7 About 45 min each way from Canberra",
+    "description": "The nature alternative to Questacon or the zoo: wetlands, bushland and wildlife. Focus on The Sanctuary rather than the longer summit hikes. Wildlife sightings are never guaranteed.",
+    "baby": "A better fit for a relaxed family outing than Gibraltar Peak or Camels Hump. Choose your walking distance once there.",
+    "timing": "26 December instead of the indoor attraction, or a separate return stop. Closed 25 December. Current vehicle day pass $16.09.",
+    "source": "https://www.tidbinbilla.act.gov.au/do/the-sanctuary",
+    "photos": [
+      {
+        "url": "https://ramblingwombat.files.wordpress.com/2017/11/183.jpg?h=479&w=650",
+        "alt": "Wetland Wildlife Gathering",
+        "source": "https://ramblingwombat.wordpress.com/2017/11/19/the-sanctuary-loop-tidbinbilla-nature-reserve/"
+      },
+      {
+        "url": "https://ramblingwombat.files.wordpress.com/2017/11/173.jpg",
+        "alt": "Tidbinbilla Wetlands Reflection",
+        "source": "https://theramblingwombat.com/2017/11/19/the-sanctuary-loop-tidbinbilla-nature-reserve/"
+      }
+    ]
+  },
+  {
+    "id": "cooma",
+    "area": "On the way",
+    "title": "Cooma and Snowy Hydro Discovery Centre",
+    "fit": "Easy stop",
+    "stats": "45\u201390 min \u00b7 Free general entry",
+    "description": "A useful lunch break between Canberra and Jindabyne, with displays about the Snowy Mountains Scheme. A good option for the adults without committing to another long walk.",
+    "baby": "Indoor exhibits, toilets and a chance to take a break from the car. Keep any theatre session optional around your baby\u2019s tolerance.",
+    "timing": "On the southbound or return drive. Published Boxing Day hours 9am\u20132pm: a morning attraction in Canberra may leave too little time.",
+    "source": "https://www.snowyhydro.com.au/visit/snowy-hydro-discovery-centre/",
+    "photos": [
+      {
+        "url": "https://i0.wp.com/journeydiscover.com/wp-content/uploads/2023/05/IMG_9327-1.jpg",
+        "alt": "Snowy Hydro Discovery Centre in Cooma",
+        "source": "https://journeydiscover.com/things-to-do-in-cooma/"
+      },
+      {
+        "url": "https://www.visitnsw.com/sites/visitnsw/files/styles/article_mobile_x2/public/2024-06/193212_Snowy_Hydro_Discovery_Centre_Cafe_Cooma_DNSW.jpg?h=f0fb51a5&itok=-y6A0qaJ",
+        "alt": "Snowy Hydro Discovery Centre Interactive Exhibit",
+        "source": "https://www.visitnsw.com/destinations/snowy-mountains/cooma-area"
+      }
+    ]
+  },
+  {
+    "id": "jindabyne",
+    "area": "Snowy Mountains",
+    "title": "Jindabyne and Lake Jindabyne",
+    "fit": "Easy stop",
+    "stats": "Base for 4 nights \u00b7 Flexible lakeside time",
+    "description": "Stay here for access to both Thredbo and the Perisher/Charlotte Pass side. Use the lake and town for a rest afternoon between mountain outings.",
+    "baby": "Self-catering, laundry access and a private bathroom are especially useful with your baby. Choose accommodation that confirms space for a cot.",
+    "timing": "26\u201329 December nights in the proposed route. Compare ensuite cabins and small apartments.",
+    "source": "https://weareexplorers.co/snowy-mountains-kosciuszko-road-trip/",
+    "photos": [
+      {
+        "url": "https://www.snownews.com.au/content/images/size/w2800/2025/12/aV1KomK3s1UPnKT0xONE.jpeg",
+        "alt": "Summer Canoeing on Lake Jindabyne",
+        "source": "https://www.snownews.com.au/lake-glistens-for-summer-recreation/"
+      },
+      {
+        "url": "https://www.australianviews.com.au/p/623/late-afternoon-light-summer-lake-jindabyne-24265465.jpg.webp",
+        "alt": "Late Afternoon Light on Lake Jindabyne",
+        "source": "https://www.australianviews.com.au/popular-australian-destinations/new-south-wales-nsw-snowy-mountains-the-snowies-lake-jindabyne-nsw/late-afternoon-light-summer-lake-jindabyne-24265465.html?srsltid=AfmBOoprGEikCgUgA0P6OXRBuqSAS1kZCdzW-rgIRYN3i-Wh9cGPFtzQ"
+      }
+    ]
+  },
+  {
+    "id": "charlotte",
+    "area": "Snowy Mountains",
+    "title": "Charlotte Pass and Snow Gums boardwalk",
+    "fit": "Easy stop",
+    "stats": "About 400m return \u00b7 15\u201330 min published walking time",
+    "description": "The best mountain-view stop when you want very little walking. See twisted snow gums and the Main Range from the boardwalk and lookout.",
+    "baby": "There are steps, and the high location is exposed to wind. A short walk still needs warm layers and stable footing.",
+    "timing": "27 December, with Sawpit Creek on the way back. Roughly 45\u201360 min driving each way from Jindabyne.",
+    "source": "https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/charlotte-pass-lookout",
+    "photos": [
+      {
+        "url": "https://www.nationalparks.nsw.gov.au/-/media/npws/images/events/discovery/snowy-mountains-coach-tour-1.jpg",
+        "alt": "Snow Gums boardwalk and mountain views",
+        "source": "https://www.nationalparks.nsw.gov.au/things-to-do/guided-tours/snowy-mountains-guided-coach-tour"
+      },
+      {
+        "url": "https://www.australiaplus.de/sites/australiaplus/files/styles/lightbox/public/2023-08/02-australien-new-south-wales-charlotte-pass-snow-gums.jpg?itok=yrI_nrvm",
+        "alt": "Snow Gums Boardwalk at Charlotte Pass",
+        "source": "https://www.australiaplus.de/blog/von-sydney-australiens-berge"
+      }
+    ]
+  },
+  {
+    "id": "sawpit",
+    "area": "Snowy Mountains",
+    "title": "Sawpit Creek picnic and walking track",
+    "fit": "Short hike",
+    "stats": "2km loop \u00b7 45\u201375 min \u00b7 Grade 3",
+    "description": "A woodland and creek walk with a convenient picnic area. An alternative to a full day on the exposed high trails.",
+    "baby": "Uneven sections mean this is a carrier walk rather than a paved pram stroll. You can simply picnic if the walk does not suit the day.",
+    "timing": "Combine with Charlotte Pass, or use as the shorter outing on a rest day.",
+    "source": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/sawpit-walking-track",
+    "photos": [
+      {
+        "url": "https://www.nationalparks.nsw.gov.au/-/media/npws/images/education/activities/going-up-the-mountain-stage-6-geography/going-mountain-03.jpg",
+        "alt": "Sawpit Creek Picnic Area",
+        "source": "https://www.nationalparks.nsw.gov.au/education/stage-6-geography-going-up-the-mountain-kosciuszko-national-park"
+      },
+      {
+        "url": "https://www.nationalparks.nsw.gov.au/-/media/npws/images/events/discovery/king-of-the-streams-tour-01.jpg?hash=F3CC3CE7695CCAFB76A618C5144507149FB72FA8&w=126",
+        "alt": "Sawpit Creek Picnic Area",
+        "source": "https://www.nationalparks.nsw.gov.au/things-to-do/education-centres/kosciuszko-education-centre"
+      }
+    ]
+  },
+  {
+    "id": "thredbo",
+    "area": "Snowy Mountains",
+    "title": "Thredbo village and scenic chairlift",
+    "fit": "Easy stop",
+    "stats": "Half-day or full day \u00b7 Lift fees apply",
+    "description": "A mountain-village day with caf\u00e9s, scenery and optional lift access to the high walks. The village alone is an alternative if conditions make the alpine walk unsuitable.",
+    "baby": "Confirm infant and backpack-carrier arrangements directly with the lift operator. Do not assume you can remain wearing the loaded carrier on the chairlift.",
+    "timing": "28 December, preferably whichever day has the calmest mountain forecast. Around 35\u201345 min each way from Jindabyne.",
+    "source": "https://www.thredbo.com.au/activities/gondola-and-chairlift/",
+    "photos": [
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/95/3a/27/photo0jpg.jpg",
+        "alt": "Summer Chairlift Ride at Thredbo",
+        "source": "https://www.tripadvisor.com/Attraction_Review-g529031-d487260-Reviews-Thredbo_Alpine_Village-Thredbo_Village_Kosciuszko_National_Park_New_South_Wales.html"
+      },
+      {
+        "url": "https://www.airial.travel/_next/image?q=75&url=https%3A%2F%2Fcoinventmediastorage.blob.core.windows.net%2Fmedia-storage-container%2Fgphoto_ChIJQbFHg79LI2sRMlP_kD0JZRc_0.jpg&w=3840",
+        "alt": "Alpine Chairlift Ride",
+        "source": "https://www.airial.travel/attractions/australia/thredbo-village/snowgums-chairlift-sLrnEIUo"
+      }
+    ]
+  },
+  {
+    "id": "lookout",
+    "area": "Snowy Mountains",
+    "title": "Kosciuszko lookout from the chairlift",
+    "fit": "Short hike",
+    "stats": "4km return \u00b7 1\u20132 hours \u00b7 Grade 2 for lookout section",
+    "description": "My first choice for a substantial mountain experience with manageable distance. Elevated walking platforms cross open alpine terrain to views of Kosciuszko.",
+    "baby": "More exposed than the lower woodland walks. Allow extra time with the carrier and keep the lift\u2019s last return time in mind.",
+    "timing": "Choose this as the walking part of the Thredbo day, subject to weather and lift arrangements.",
+    "source": "https://www.thredbo.com.au/activities/hikes/self-guided-hikes/",
+    "photos": [
+      {
+        "url": "https://www.nationalparks.nsw.gov.au/-/media/npws/images/parks/kosciuszko-national-park/thredbo-perisher-area/kosciuszko-lookout/kosciuszko-lookout-01.jpg",
+        "alt": "Kosciuszko Lookout Panorama",
+        "source": "https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/kosciuszko-lookout"
+      },
+      {
+        "url": "https://assets.atdw-online.com.au/images/kosciuszko-lookout-02_ni9svet.jpg?fm=jpg&h=1200&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjYxNTJhZDQwNWQ2ODE4YjM1YjE2Y2IyMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9%3Fw%3D1600&rect=0%2C0%2C2048%2C1536&rot=360&w=1600",
+        "alt": "Kosciuszko Lookout Boardwalk",
+        "source": "https://www.visitnsw.com/destinations/snowy-mountains/kosciuszko-national-park/attractions/kosciuszko-lookout"
+      }
+    ]
+  },
+  {
+    "id": "rainbow",
+    "area": "Snowy Mountains",
+    "title": "Rainbow Lake",
+    "fit": "Short hike",
+    "stats": "2.5km return \u00b7 45\u201375 min \u00b7 Grade 3",
+    "description": "Snow gums, alpine grassland and a quiet lake picnic destination. A gentler choice for your flexible third mountain day.",
+    "baby": "Gentle climbs and small creek crossings need care with a loaded carrier. Pick a dry day with straightforward crossings.",
+    "timing": "29 December, or swap with a higher walk depending on weather.",
+    "source": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/rainbow-lake-walking-track",
+    "photos": [
+      {
+        "url": "https://auth-prd.nswparks.cloud/-/media/npws/images/parks/kosciuszko-national-park/thredbo-perisher-area/rainbow-lake-walking-track/rainbow-lake-walk-05.jpg",
+        "alt": "Rainbow Lake Walking Track",
+        "source": "https://auth-prd.nswparks.cloud/things-to-do/walking-tracks/rainbow-lake-walking-track"
+      },
+      {
+        "url": "https://assets.atdw-online.com.au/images/aa479b15e60f8308e0f4f6a9e9e81f85.jpeg?fm=jpg&h=1200&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjU2YjI0OTRhYjA0MjM4NjI0NWQ1MTk0MiIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9%3Fw%3D1600&rect=158%2C0%2C2048%2C1536&w=1600",
+        "alt": "Rainbow Lake Shoreline",
+        "source": "https://www.visitnsw.com/destinations/snowy-mountains/kosciuszko-national-park/attractions/rainbow-lake-walking-track"
+      }
+    ]
+  },
+  {
+    "id": "porcupine",
+    "area": "Snowy Mountains",
+    "title": "Porcupine Rocks",
+    "fit": "Longer hike",
+    "stats": "5.7km return \u00b7 1.5\u20132.5 hours \u00b7 Grade 3",
+    "description": "The more substantial shorter hike: snow gums, meadows and granite outcrops with expansive valley views. We Are Explorers highlights this as a memorable introduction to the high country.",
+    "baby": "Choose it if you have already carried your baby comfortably over similar terrain. Avoid scrambling onto the rocks: there are slippery surfaces and sheer drops.",
+    "timing": "29 December instead of Rainbow Lake. Published time excludes baby breaks.",
+    "source": "https://weareexplorers.co/porcupine-rocks/",
+    "photos": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/596b2969d2b85786e6892853/1608980957210-QU6KMM5MX3PQQ7SK7XVK/The%2Brocks%2Bnear%2BPorcupine%2BRocks",
+        "alt": "Porcupine Rocks at Sunset",
+        "source": "https://www.walkmyworld.com/posts/porcupine-rocks"
+      },
+      {
+        "url": "https://cdn.exploroz.com/images/places/52339_7__TN1000x800.jpg?gid=186182",
+        "alt": "Porcupine Rocks Alpine Snow Patch",
+        "source": "https://www.exploroz.com/places/52339/nsw%2Bporcupine-rocks"
+      }
+    ]
+  },
+  {
+    "id": "summit",
+    "area": "Longer walks",
+    "title": "Mount Kosciuszko summit",
+    "fit": "Longer hike",
+    "stats": "About 13km return from chairlift top \u00b7 4\u20135 hours",
+    "description": "The iconic summit achievement and a panoramic view from Australia\u2019s highest mountain. The route from Charlotte Pass is longer, about 18.6km return.",
+    "baby": "A substantial carrier day, rather than an easy family stroll. Build up with shorter outings first, with settled weather and a clear turnaround plan.",
+    "timing": "An alternative to the lookout walk for a fit, experienced group; not an extra activity on the same day.",
+    "source": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/kosciuszko-walk-thredbo-to-mount-kosciuszko",
+    "photos": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5504e31fe4b02e0b15a02e49/1617526307881-M7CEB0ADHDT8BX1VDUZ8/Kosiosko-137-Pano.jpg",
+        "alt": "Summit Cairn on Mount Kosciuszko",
+        "source": "https://www.lensontheroad.com/recenttravels/2021/4/4/march-2021-kosciuszko-national-park-nsw"
+      },
+      {
+        "url": "https://www.itinerariesredefined.com/uploads/1/4/3/4/143428626/mt-kosciuszko-summit_orig.jpg",
+        "alt": "Summit Trig Point on Mt. Kosciuszko",
+        "source": "https://www.itinerariesredefined.com/mt-kosciuszko-summit-walk.html"
+      }
+    ]
+  },
+  {
+    "id": "deadhorse",
+    "area": "Longer walks",
+    "title": "Dead Horse Gap",
+    "fit": "Longer hike",
+    "stats": "5km one-way \u00b7 1.5\u20132.5 hours \u00b7 Grade 4",
+    "description": "A scenic combination of alpine views and snow-gum forest. Starting near the chairlift top gives a descending walk to the gap.",
+    "baby": "Steep sections demand care with a loaded carrier. Arrange pickup at Dead Horse Gap; walking back along the river adds several kilometres.",
+    "timing": "An alternative Thredbo hike, best for confident walkers. Confirm lift and pickup logistics.",
+    "source": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/dead-horse-gap-walking-track",
+    "photos": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/596b2969d2b85786e6892853/1610274640325-LHU10NRL7RI4I88LC22J/Into%2Bthe%2Bsnow%2Bgum%2Bforest%2Bon%2Bthe%2BDead%2BHorse%2BTrack%2Bin%2Bthe%2BSnowy%2BMountains",
+        "alt": "Alpine Snow Gum Walk",
+        "source": "https://www.walkmyworld.com/posts/dead-horse-gap"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/596b2969d2b85786e6892853/1610274754927-1SC2M0TUNR785ZRNHAJH/Views%2Bover%2Bthe%2Bmountains",
+        "alt": "Dead Horse Gap Alpine Panorama",
+        "source": "https://www.walkmyworld.com/posts/dead-horse-gap"
+      }
+    ]
+  },
+  {
+    "id": "mainrange",
+    "area": "Longer walks",
+    "title": "Main Range walk",
+    "fit": "Longer hike",
+    "stats": "22km loop \u00b7 7\u20139 hours \u00b7 Grade 4",
+    "description": "The standout full-day landscape walk: glacial lakes, high ridges and mountain panoramas. Starts at Charlotte Pass.",
+    "baby": "I would not choose this for the easy carrier outing you originally described. It is long and exposed, with a Snowy River stepping-stone crossing that can be impassable.",
+    "timing": "Keep as an ambitious future option rather than a core part of this family itinerary.",
+    "source": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/main-range-walking-track",
+    "photos": [
+      {
+        "url": "https://www.nationalparks.nsw.gov.au/-/media/npws/images/parks/kosciuszko-national-park/thredbo-perisher-area/main-range-walk/main-range-walk-blue-lake04.jpg",
+        "alt": "Main Range Walk at Blue Lake",
+        "source": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/main-range-walking-track"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/596b2969d2b85786e6892853/1612605013590-UCZ198SEAFS1O07V52CN/The%2Bshore%2Bof%2BBlue%2BLake%2B-%2BMount%2BKosciuszko%2BSummit%2BWalk",
+        "alt": "Alpine Reflection at Blue Lake",
+        "source": "https://www.walkmyworld.com/posts/main-range-mount-kosciuszko-hike"
+      }
+    ]
+  },
+  {
+    "id": "islandbend",
+    "area": "Camping and picnics",
+    "title": "Island Bend",
+    "fit": "Easy stop",
+    "stats": "Optional riverside outing \u00b7 Basic campground",
+    "description": "A Snowy River and bushland setting highlighted in the We Are Explorers mountain road trip. Worth considering for a quiet outdoor break if you are exploring that side of the park.",
+    "baby": "Treat it as an optional picnic or camping alternative rather than adding another daily drive. Check road and campground status before going.",
+    "timing": "Optional rest-day alternative to the town/lake. Keep your booked Jindabyne accommodation if you prefer ensuite comfort.",
+    "source": "https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/island-bend-campground",
+    "photos": [
+      {
+        "url": "https://assets.atdw-online.com.au/images/island-bend-campground-01_ks6cr4y.jpg?q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjVkMzY2N2ZlNjIwNGUwZmMwNDhlZGI5ZCIsImRpc3RyaWJ1dG9ySWQiOiI1ZDY3MzM2MjIyNmI0Y2RjNGUyMTFhZmIiLCJhcGlrZXlJZCI6IjVkNjczMzYzMjI2YjRjZGM0ZTIxMWFmZSJ9+%7D%7D&rect=0%2C0%2C2048%2C1536&rot=360",
+        "alt": "Island Bend Campground Riverside Retreat",
+        "source": "https://snowymountains.com.au/directory/island-bend-campground"
+      },
+      {
+        "url": "https://images.campermate.com/photos/db0a1414c39d64c3d78f6b4e9bffc2c0.jpg?fit=cover&gravity=auto&height=2664&width=4000",
+        "alt": "Island Bend Campground Riverside View",
+        "source": "https://campermate.com/en/location/australia/nsw/snowy-mountains/paid-campsites/island-bend-campground/1b9716e7-bdc0-4775-9a26-a772e3acc349"
+      }
+    ]
+  },
+  {
+    "id": "diggings",
+    "area": "Camping and picnics",
+    "title": "Thredbo Diggings",
+    "fit": "Easy stop",
+    "stats": "Unpowered campground \u00b7 Toilets \u00b7 Bring drinking water",
+    "description": "A lower-cost camping alternative beside the Thredbo River. Current listing has no camping fee, a $6 booking fee and separate park entry fees.",
+    "baby": "A basic outdoor stay rather than private-bathroom accommodation. Booking and a suitable site are still required; low camping fees do not remove campervan hire costs.",
+    "timing": "Compare only if camping itself appeals. Otherwise choose an ensuite cabin in Jindabyne.",
+    "source": "https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/thredbo-diggings-campground/",
+    "photos": [
+      {
+        "url": "https://assets.atdw-online.com.au/images/thredbo-diggings-campground-01_fw5ynzc.jpg?q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjVkMzY3MTdmOTVmYWZlZmExNTJmOWYyMSIsImRpc3RyaWJ1dG9ySWQiOiI1ZDY3MzM2MjIyNmI0Y2RjNGUyMTFhZmIiLCJhcGlrZXlJZCI6IjVkNjczMzYzMjI2YjRjZGM0ZTIxMWFmZSJ9+%7D%7D&rect=0%2C0%2C2048%2C1536&rot=360",
+        "alt": "Riverside Cycling Camp",
+        "source": "https://snowymountains.com.au/directory/thredbo-diggings-campground"
+      },
+      {
+        "url": "https://assets.atdw-online.com.au/images/thredbo-diggings-campground-06_24a3ka1.jpg?h=559&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjVkMzY3MTdmOTVmYWZlZmExNTJmOWYyMSIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9&rect=0%2C0%2C2048%2C1536&rot=360&w=745",
+        "alt": "Riverside Mountain Campground",
+        "source": "https://www.visitnsw.com/destinations/snowy-mountains/kosciuszko-national-park/accommodation/thredbo-diggings-campground"
+      }
+    ]
+  },
+  {
+    "id": "highlands",
+    "area": "Southern Highlands",
+    "title": "Berrima, Bowral and Mittagong",
+    "fit": "Easy stop",
+    "stats": "One overnight base \u00b7 Village wandering and meals",
+    "description": "Choose one town for the overnight stay, then explore nearby waterfalls. Berrima suits a heritage-village stroll; Bowral offers more shops and dining; Mittagong is convenient to the highway.",
+    "baby": "Avoid moving accommodation between these nearby towns. Compare the total including parking, cot and any minimum stay.",
+    "timing": "30 December in the seven-night route, before returning to Sydney on the 31st.",
+    "source": "https://www.visitnsw.com/destinations/country-nsw/southern-highlands",
+    "photos": [
+      {
+        "url": "https://res.akamaized.net/domain/image/upload/t_web/v1541052331/MARKET_VIEW_Berrima_Antiques_in_the_Southern_Highlands_Photo_Supplied_y1lgtw.jpg",
+        "alt": "EIGHTEEN Antiques in Berrima",
+        "source": "https://www.domain.com.au/news/why-demand-is-still-growing-in-some-high-end-holiday-pockets-813112/"
+      },
+      {
+        "url": "https://assets.atdw-online.com.au/images/d6855a8c85ce9aba65e152ef490e635b.jpeg?h=559&q=eyJ0eXBlIjoibGlzdGluZyIsImxpc3RpbmdJZCI6IjVmM2M5NTU2MGI1Mjg1MTAzNGRhYzhkYiIsImRpc3RyaWJ1dG9ySWQiOiI1NmIxZWI5MzQ0ZmVjYTNkZjJlMzIwYzgiLCJhcGlrZXlJZCI6IjU2YjFlZTU5MGNmMjEzYWQyMGRjNTgxOSJ9&rect=0%2C0%2C4032%2C3024&rot=360&w=745",
+        "alt": "Berrima Village Heritage Buildings",
+        "source": "https://www.visitnsw.com/things-to-do/tours/southern-highlands-boutique-tours"
+      }
+    ]
+  },
+  {
+    "id": "fitzroy",
+    "area": "Southern Highlands",
+    "title": "Fitzroy Falls",
+    "fit": "Easy stop",
+    "stats": "150m one-way to first lookout \u00b7 Step-free access",
+    "description": "The easiest dramatic waterfall stop. Add a portion of the West Rim track if you want more viewpoints and have energy.",
+    "baby": "The first lookout is the strongest option with the pram or a short carrier outing. Longer rim walks have a different effort level.",
+    "timing": "31 December before Sydney. Current vehicle entry fee $4; the visitor centre closes Christmas Day.",
+    "source": "https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/fitzroy-falls-lookout",
+    "photos": [
+      {
+        "url": "https://www.visitsouthernhighlands.com.au/wp-content/uploads/2019/06/524_fitzroyfalls_deekramer-680x1024.jpg",
+        "alt": "Fitzroy Falls waterfall",
+        "source": "https://www.visitsouthernhighlands.com.au/about-us/towns-villages/fitzroy-falls/"
+      },
+      {
+        "url": "https://www.nationalparks.nsw.gov.au/-/media/npws/images/events/discovery/fitzroy-falls-n-ature-walk-3.jpg",
+        "alt": "Fitzroy Falls viewing platform and gorge",
+        "source": "https://www.nationalparks.nsw.gov.au/things-to-do/guided-tours/fitzroy-falls-nature-tour"
+      }
+    ]
+  },
+  {
+    "id": "carrington",
+    "area": "Southern Highlands",
+    "title": "Carrington Falls",
+    "fit": "Short hike",
+    "stats": "600m loop \u00b7 30\u201345 min \u00b7 Grade 3",
+    "description": "One of the strongest new additions from We Are Explorers: a dramatic waterfall and changing views around the gorge. Combine with nearby Nellies Glen.",
+    "baby": "The complete loop includes steep metal stairs. Choose the viewpoints that match your footing and energy; short distance does not mean step-free.",
+    "timing": "Choose this and Nellies Glen as one half-day waterfall outing. Do not try to add every Southern Highlands waterfall in one morning.",
+    "source": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/carrington-falls-walking-track",
+    "photos": [
+      {
+        "url": "https://cdn.prod.rexby.com/image/05965a6f2519468da36ffcafbd9a065d?format=webp&height=1350&width=1080",
+        "alt": "Carrington Falls Waterfall",
+        "source": "https://www.rexby.com/Samuel.markham/ttd/waterfall-107"
+      },
+      {
+        "url": "https://sydneyuncovered.com/wp-content/uploads/2025/12/carrington-falls-cover.jpg",
+        "alt": "Carrington Falls Viewing Platform",
+        "source": "https://sydneyuncovered.com/carrington-falls-nellies-glen/"
+      }
+    ]
+  },
+  {
+    "id": "nellies",
+    "area": "Southern Highlands",
+    "title": "Nellies Glen",
+    "fit": "Easy stop",
+    "stats": "Short walk from its car park \u00b7 Allow 45\u201390 min with picnic",
+    "description": "A small waterfall and shaded waterhole close to Carrington Falls. A change of scale and atmosphere after the big gorge views.",
+    "baby": "I would make this a picnic and scenery stop with your baby. Wet rock and water edges need close supervision.",
+    "timing": "Pair with Carrington Falls, rather than visiting on a separate driving day.",
+    "source": "https://weareexplorers.co/southern-highlands-road-trip/",
+    "photos": [
+      {
+        "url": "https://media.timeout.com/images/103630223/750/422/image.jpg",
+        "alt": "Nellie\u2019s Glen Waterfall Retreat",
+        "source": "https://www.timeout.com/sydney/attractions/carrington-falls-and-nellies-glen"
+      },
+      {
+        "url": "https://intothewildescapes.com/_next/image?q=75&url=https%3A%2F%2Fadmin.intothewildescapes.com%2Fwp-content%2Fuploads%2F2022%2F12%2Fnellies-glen-background.jpg&w=3840",
+        "alt": "Nellie\u2019s Glen Waterfall Retreat",
+        "source": "https://intothewildescapes.com/blog/the-ultimate-summer-escapes"
+      }
+    ]
+  },
+  {
+    "id": "belmore",
+    "area": "Southern Highlands",
+    "title": "Belmore Falls",
+    "fit": "Short hike",
+    "stats": "Formal lookout outing \u00b7 Allow 45\u201360 min",
+    "description": "A striking waterfall viewed across a forested gorge. A worthwhile alternative if you would like another waterfall after Fitzroy or Carrington.",
+    "baby": "Stay on the formal lookout route. The track to the base is closed; some final approach roads are unsealed, so check conditions.",
+    "timing": "An optional substitution in the Southern Highlands, not a requirement to complete the trip.",
+    "source": "https://weareexplorers.co/southern-highlands-road-trip/",
+    "photos": [
+      {
+        "url": "https://cdn.prod.rexby.com/image/949c4d8bb58b45e686726041c1baee84?format=webp&height=1350&quality=80&width=1080",
+        "alt": "Belmore Falls Two-Tiered Cascade",
+        "source": "https://www.rexby.com/Cassadvantures/ttd/scenic-waterfall-2"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/596b2969d2b85786e6892853/4ce092f5-0947-4f09-bc15-2f401c0869ef/0K3A2711.jpg?format=1500w",
+        "alt": "Belmore Falls in the Southern Highlands",
+        "source": "https://www.walkmyworld.com/posts/belmore-falls"
+      }
+    ]
+  },
+  {
+    "id": "bendeela",
+    "area": "Southern Highlands",
+    "title": "Kangaroo Valley and Bendeela",
+    "fit": "Easy stop",
+    "stats": "Optional half-day or overnight detour",
+    "description": "A valley-and-river alternative with a chance of seeing wombats at Bendeela. This is farther from the Hume route than staying in Berrima or Mittagong.",
+    "baby": "Enjoy wildlife at a distance and plan the return drive in daylight. The multi-day kayaking trips featured on We Are Explorers are separate adventures, not part of this baby-carrier itinerary.",
+    "timing": "Consider if wildlife and valley scenery appeal more than ticking off additional waterfalls. Camping is a separate choice from your preferred ensuite stay.",
+    "source": "https://weareexplorers.co/southern-highlands-road-trip/",
+    "photos": [
+      {
+        "url": "https://assets.riparide.com/photo/66558/image/hero-a8dbf14274a4cec058b8e5231c9486eb.jpg",
+        "alt": "Wombat Foraging at Bendeela Campground",
+        "source": "https://www.riparide.com/adventures/9141-wombat-watching"
+      },
+      {
+        "url": "https://assets.cdn.thewebconsole.com/S3WEB4474/product-item/5382bd91e9639.jpg?geometry%281000%3EX1000%3E%29=&v=2",
+        "alt": "Wombat at Bendeela Camp",
+        "source": "https://www.campsight.com.au/catalogue/greater-sydney---blue-mountains/bendeela--kangaroo-valley--shoalhaven-region"
+      }
+    ]
+  },
+  {
+    "id": "yarrangobilly",
+    "area": "Optional extension",
+    "title": "Yarrangobilly caves and thermal pool",
+    "fit": "Extension",
+    "stats": "Allow a full outing \u00b7 Northern Kosciuszko detour",
+    "description": "The most distinctive extension: a forested valley, cave formations and a spring-fed pool at around 27\u00b0C. Plan it with Tumut rather than treating it as a quick stop near Thredbo.",
+    "baby": "The pool walk is steep: 700m each way, Grade 4. The main pool is 2.5m deep, with a separate wading pool. Ask the visitor centre which cave tour, carrier and child-age arrangements suit your baby before booking.",
+    "timing": "Best with two extra nights around Tumut. The pool has been upgraded; photos can show older facilities.",
+    "source": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/yarrangobilly-caves-thermal-pool-walk",
+    "photos": [
+      {
+        "url": "https://www.nationalparks.nsw.gov.au/-/media/npws/images/parks/kosciuszko-national-park/yarrangobilly-area/thermal-pool/yarrangobilly-caves-thermal-pool-9.jpg",
+        "alt": "Yarrangobilly Caves Thermal Pool",
+        "source": "https://www.nationalparks.nsw.gov.au/things-to-do/swimming-spots/yarrangobilly-caves-thermal-pool"
+      },
+      {
+        "url": "https://www.nationalparks.nsw.gov.au/-/media/npws/blog/image/2018/03/149833-56-scaled.jpg",
+        "alt": "Yarrangobilly Cave Interior",
+        "source": "https://www.nationalparks.nsw.gov.au/get-inspired/stories/these-are-the-four-most-spectacular-caves-in-nsw"
+      }
+    ]
+  },
+  {
+    "id": "tumut",
+    "area": "Optional extension",
+    "title": "Tumut and the river",
+    "fit": "Extension",
+    "stats": "Suggested base for 2 extra nights",
+    "description": "A riverside town to break the drive and support an unhurried Yarrangobilly day. Choose a motel or ensuite cabin, then continue towards the Southern Highlands and Sydney.",
+    "baby": "Two nights avoid combining a long mountain transfer, pool visit and another long drive in one day.",
+    "timing": "Extended route: Tumut nights 30\u201331 December, Highlands night 1 January, home 2 January. Compare accommodation before choosing the extension.",
+    "source": "https://www.visitnsw.com/destinations/snowy-mountains/tumut-area/tumut",
+    "photos": [
+      {
+        "url": "https://www.snowyvalleys.nsw.gov.au/files/assets/public/v/1/images/svc_pioneer-park.jpg?w=1200",
+        "alt": "Riverside Park and Townscape",
+        "source": "https://www.snowyvalleys.nsw.gov.au/News-Media/Bloom-Street-Festival-Coming-to-Tumut%E2%80%99s-Elm-Drive"
+      },
+      {
+        "url": "https://cdn.sanity.io/images/a8njjy3d/production/a6c6caf6dfb464270b56094b494291cbb1999ffd-2400x1600.jpg?auto=format&fm=webp&q=80",
+        "alt": "Tumut River Riverside",
+        "source": "https://reflectionsholidays.com.au/parks/tumut-river/food-and-drink/three-blue-ducks-nimbo/"
+      }
+    ]
+  },
+  {
+    "id": "gibraltarpeak",
+    "area": "Longer walks",
+    "title": "Gibraltar Peak at Tidbinbilla",
+    "fit": "Longer hike",
+    "stats": "8.2km return \u00b7 Around 3\u20134 hours",
+    "description": "Granite tors and broad views across Tidbinbilla. This is Gibraltar Peak, a different place from the closed Gibraltar Falls.",
+    "baby": "The summit includes rocky scrambling, so I would choose The Sanctuary instead for your carrier outing.",
+    "timing": "A more demanding alternative for an experienced group; Tidbinbilla closes Christmas Day.",
+    "source": "https://weareexplorers.co/gibraltar-peak-summit-hike-canberra-act/",
+    "photos": [
+      {
+        "url": "https://petitfute.twic.pics/medias/photo/originale/75/51/132385-tidbinbilla-nature-reserve-gibraltar-peak.jpg",
+        "alt": "Gibraltar Peak Granite Outcrop",
+        "source": "https://www.petitfute.co.uk/v43783-tidbinbilla-nature-reserve/"
+      },
+      {
+        "url": "https://region.com.au/wp-content/uploads/2015/09/image2-11.jpeg",
+        "alt": "Granite boulders at Gibraltar Peak summit",
+        "source": "https://region.com.au/take-a-hike-gibraltar-peak/155339/"
+      }
+    ]
+  },
+  {
+    "id": "camelshump",
+    "area": "Longer walks",
+    "title": "Camels Hump at Tidbinbilla",
+    "fit": "Longer hike",
+    "stats": "A sustained climb with a steep final scramble",
+    "description": "An ambitious ridge-and-summit outing in Tidbinbilla, mentioned as another mountain-hiking option rather than a recommended easy stop.",
+    "baby": "The narrow final ascent and scrambling make this a poor match for your original easy-hike request with a baby carrier.",
+    "timing": "Keep as a future hiking option, rather than adding to the two-night Canberra stop.",
+    "source": "https://weareexplorers.co/camels-hump-hike-canberra-act/",
+    "photos": [
+      {
+        "url": "https://img.aussiebushwalking.com/img/act/camels-hump/13471.jpg",
+        "alt": "Summit Panorama at Camels Hump",
+        "source": "https://www.aussiebushwalking.com/act/camels-hump"
+      },
+      {
+        "url": "https://bilby-public-storage.s3.ap-southeast-2.amazonaws.com/tenantcanberrabushwalkingclub/media/296/conversions/tidbinbilla-crest-camels-hump-johns-peak-tidbi-social.jpg",
+        "alt": "Tidbinbilla Ridge Panorama",
+        "source": "https://canberrabushwalkingclub.mybilby.com/activities/2288"
+      }
+    ]
+  },
+  {
+    "id": "bluewaterholes",
+    "area": "Optional extension",
+    "title": "Blue Waterholes and Clarke Gorge",
+    "fit": "Extension",
+    "stats": "Remote northern Kosciuszko outing \u00b7 Unsealed access",
+    "description": "Blue pools and limestone gorge scenery. The Clarke Gorge walk involves multiple creek crossings; road conditions can affect access.",
+    "baby": "I would prioritise Yarrangobilly for this family trip. This is a separate adventure, rather than another easy stop on the route to Thredbo.",
+    "timing": "Consider only with extra time, current road and water-level advice, and appropriate experience. Do not combine automatically with the pool day.",
+    "source": "https://weareexplorers.co/yarrangobilly-caves-blue-waterholes-kosciuszko-nsw/",
+    "photos": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1335/3117/files/DSC00097.jpg?v=1647491073",
+        "alt": "Clarke Gorge Adventure",
+        "source": "https://www.tomsoutdoors.com.au/blogs/photo-epics/visit-the-snowy-valleys"
+      },
+      {
+        "url": "https://www.nationalparks.nsw.gov.au/-/media/npws/images/parks/kosciuszko-national-park/learn-more/high-plains-landscapes.jpg?h=450&hash=BF01A5190359BBBA78B0B61438C702F77D01B07D&la=en&w=767",
+        "alt": "Limestone Gorge at Blue Waterholes",
+        "source": "https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/kosciuszko-clarke-gorge-walking-track/learn-more"
+      }
+    ]
+  }
+]
