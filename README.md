@@ -7,6 +7,7 @@ A photo-rich, responsive road-trip guide from Sydney, styled after [the New Zeal
 - Includes Mount Ainslie, Questacon/Mini Q, Charlotte Pass, Rainbow Lake, Porcupine Rocks and Fitzroy Falls.
 - Rainbow Lake and Porcupine Rocks are alternatives on the flexible mountain day; the guide explains the effort of combining them or adding another night.
 - Route selection updates visible days, dates, overnight allocations and the shareable URL (`?route=extended`).
+- Daily seasonal weather notes with linked climate references, distinguishing town and alpine conditions. Monthly averages are not forecasts; Tumut uses historical Adelong records.
 - Browser-local booking checklist, map/source links and print styling.
 - Optional Balloon Aloft Canberra sunrise flight on 25 December, conditional on confirmed holiday service, with a 26 December replacement option. Minimum age six; the baby needs a non-flying adult. Flight costs are additional.
 

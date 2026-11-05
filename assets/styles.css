@@ -946,10 +946,13 @@ a.overnight-name:hover {
 
 
 
+
+
 /* ACT itinerary additions */
 
 .route-hero{position:relative}.route-hero img{width:100%;height:450px;object-fit:cover;border-radius:18px}.route-hero .hero-caption{margin:9px 0 0;font-size:11px;color:var(--muted)}
 .day .gallery img,.alt-grid .gallery img{height:auto}
+.header-effort{margin-top:14px;color:var(--muted);font-size:13px;line-height:1.6}.weather-sources{font-size:10px;line-height:1.5;margin-top:7px}.weather-sources a{font-size:10px;color:var(--link)}.weather-note{font-size:12px;color:var(--muted);max-width:900px;margin:15px 0 24px}
 .route-switch{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0 10px}.route-switch button{font:inherit;font-size:13px;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:22px;padding:10px 17px;cursor:pointer}.route-switch button[aria-pressed=true]{background:#d8eaf7;color:#10232f;border-color:#d8eaf7}.route-note{font-size:13px;color:var(--muted)}
 .must-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:24px 0}.must-card{position:relative;overflow:hidden;border-radius:15px;background:var(--panel);text-decoration:none}.must-card img{width:100%;height:135px;object-fit:cover;display:block}.must-card span{display:block;padding:12px;font-size:13px;font-weight:550}.must-card small{display:block;color:var(--muted);font-size:10px;font-weight:400;margin-top:4px}.must-card:hover{outline:1px solid #a3c9e9}
 .photo-link{display:block}.day .gallery figcaption{position:static;width:auto;height:auto;margin:7px 2px;overflow:visible;clip-path:none;white-space:normal;font-size:10px}.day .gallery figcaption a{color:var(--muted)}.photo-link img{transition:filter .2s}.photo-link:hover img{filter:brightness(1.12)}
