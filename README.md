@@ -1,41 +1,40 @@
-# Canberra and Kosciuszko Christmas itinerary 2026
+# Canberra and Kosciuszko · five nights
 
-A photo-rich, responsive road-trip guide from Sydney, styled after [the New Zealand itinerary](https://vitorsei.github.io/nz-trip-itinerary-2026/).
+Christmas road trip, 24–29 December 2026: six days and five nights, styled after the [New Zealand itinerary](https://vitorsei.github.io/nz-trip-itinerary-2026/).
 
-- Opening route map includes overnight bases, mountain outings, the optional extension and approximate driving times. Open it full-size for details.
-- Main route: 24–31 December 2026, eight days and seven nights.
-- Extended route: 24 December–2 January, ten days and nine nights, adding Tumut and Yarrangobilly.
-- Includes Mount Ainslie, Questacon/Mini Q, Charlotte Pass, Rainbow Lake, Porcupine Rocks and Fitzroy Falls.
-- Rainbow Lake and Porcupine Rocks are alternatives on the flexible mountain day; the guide explains the effort of combining them or adding another night.
-- Route selection updates visible days, dates, overnight allocations and the shareable URL (`?route=extended`).
-- Daily seasonal weather notes with linked climate references, distinguishing town and alpine conditions. Monthly averages are not forecasts; Tumut uses historical Adelong records.
-- Browser-local booking checklist, map/source links and print styling.
-- Optional Balloon Aloft Canberra sunrise flight on 25 December, conditional on confirmed holiday service, with a 26 December replacement option. Minimum age six; the baby needs a non-flying adult. Flight costs are additional.
+- Canberra, 24–25 December: two nights; Goulburn arrival break, city evening, Arboretum and lake.
+- 26 December: Mount Ainslie summit is a firm morning stop, then Cooma lunch and park break en route to Jindabyne.
+- Jindabyne, 26–28 December: three nights in one base, with Thredbo/Kosciuszko lookout and Charlotte Pass on separate days.
+- 29 December: drive home via Cooma, Canberra and Goulburn with substantial breaks.
+- An optional sixth night in Canberra can split the long return; it is outside the five-night plan and budget.
+- Accommodation allowance: AUD $920–1,420, based on two adults and an infant, own car and private bathrooms. Prices and Christmas availability are unverified.
+- Route schematic, daily seasonal weather references, real photo galleries, source links and a browser-local checklist.
 
-## View and edit
+## Run and edit
 
-No dependencies or build framework are needed. Serve the repository with `python3 -m http.server 8000` and open `http://localhost:8000`.
-
-`index.html`, `assets/styles.css` and `assets/app.js` are the published site. Destination photographs are remotely hosted, with source credits beside each gallery and in the footer. Photos need internet access and may show other seasons or older facilities.
-
-The generator is `scripts/build.py`; destination research and photo references are in `scripts/destinations.json`. After changing the generator, run:
+No dependencies or framework are needed:
 
 ```sh
-python3 scripts/build.py
+python3 -m http.server 8766 --bind 127.0.0.1
+```
+
+Open http://127.0.0.1:8766/.
+
+`scripts/build.py` generates `index.html`, `assets/styles.css` and `assets/app.js`. `scripts/route_map.py` generates `assets/route-map.svg`. `scripts/destinations.json` retains destination research and photo references, including places no longer in the route.
+
+```sh
+PYTHONDONTWRITEBYTECODE=1 python3 scripts/build.py
 python3 scripts/check.py
 node --check assets/app.js
 ```
 
-The reference theme lives in `assets/styles.css` before the `ACT itinerary additions` marker. The generator replaces only the additions after that marker.
+The generator preserves the reference theme before the `ACT itinerary additions` marker in the stylesheet. Photographs remain remotely hosted and credited; they need internet access and can depict other seasons.
 
-## GitHub Pages
+## Publication
 
-Publish from `main` and `/ (root)` under Settings → Pages → Deploy from a branch. `.nojekyll` keeps this a plain static site.
-
-Expected address: https://vitorsei.github.io/act-trip-itinerary-2026/
-
-Enabling Pages requires the appropriate repository permissions; contributor push access alone may not allow the settings change.
+GitHub Pages publishes `main` from the repository root, with `.nojekyll` for the static site:
+https://vitorsei.github.io/act-trip-itinerary-2026/
 
 ## Planning assumptions
 
-Travelling with a one-year-old. Budget examples assume two adults and one infant using their own car; those adult/transport assumptions are not confirmed. Stays, tickets and prices are provisional, not booked. Confirm holiday hours, carrier/lift arrangements, cave suitability, access and alpine weather before travel. Checklist ticks are local to the browser and do not make reservations.
+Travelling with a one-year-old; adult count and car ownership remain unconfirmed. Accommodation allowances are planning targets, not live quotes or bookings. Confirm private bathrooms, minimum stays, holiday hours and infant/carrier lift arrangements before booking. Weather notes are seasonal references, not forecasts. Driving times exclude traffic, sightseeing and baby breaks. Checklist ticks do not make reservations or sync between devices.

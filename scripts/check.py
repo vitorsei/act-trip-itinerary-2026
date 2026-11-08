@@ -26,9 +26,8 @@ page = Page()
 page.feed((root / 'index.html').read_text())
 assert len(page.ids) == len(set(page.ids)), 'Duplicate anchors'
 assert all(url[1:] in page.ids for url in page.links if url.startswith('#')), 'Broken internal link'
-assert len([d for d in page.days if d['data-variant'] in ('base', 'both')]) == 8
-assert len([d for d in page.days if d['data-variant'] in ('extended', 'both')]) == 10
+assert [d['id'] for d in page.days] == [f'day-{i}' for i in range(1, 7)], 'Expected six chronological days'
+assert all('hidden' not in d for d in page.days), 'All six days must be visible'
 assert all('alt' in img and img.get('src') for img in page.images), 'Missing image description/source'
-assert all((root / name).is_file() for name in ['assets/styles.css', 'assets/app.js', 'assets/favicon.svg', '.nojekyll'])
-assert len(page.images) >= 40
-print(f'Passed: 8-day and 10-day routes, unique IDs, internal links, {len(page.images)} described images and all static assets.')
+assert all((root / name).is_file() for name in ['assets/styles.css', 'assets/app.js', 'assets/favicon.svg', 'assets/route-map.svg', '.nojekyll'])
+print(f'Passed: six-day / five-night route, unique IDs, internal links, {len(page.images)} described images and all static assets.')
