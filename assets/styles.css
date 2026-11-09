@@ -944,6 +944,7 @@ a.overnight-name:hover {
   margin-top:0}
 /* ACT itinerary additions */
 
+.mountain-choices{margin-top:32px;padding-top:24px;border-top:1px solid var(--line)}.mountain-choices h4{font-size:25px;margin:0 0 12px}.mountain-choices>p{font-size:14px;color:var(--muted)}.mountain-options{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:18px;margin:24px 0}.mountain-option{padding:22px;border:1px solid var(--line);border-radius:16px;background:var(--panel)}.mountain-option h5{font-size:19px;line-height:1.4;margin:0 0 12px}.mountain-option p{font-size:14px}.mountain-option .option-effort{color:var(--link);font-size:13px}.mountain-option .option-logistics{color:var(--muted);font-size:13px}
 .route-hero{position:relative}.route-hero img{display:block;width:100%;height:auto;object-fit:contain;border-radius:18px}.route-hero .hero-caption{margin:9px 0 0;font-size:11px;color:var(--muted)}
 .day .gallery img,.alt-grid .gallery img{height:auto}
 .header-effort{margin-top:14px;color:var(--muted);font-size:13px;line-height:1.6}.weather-sources{font-size:10px;line-height:1.5;margin-top:7px}.weather-sources a{font-size:10px;color:var(--link)}.weather-note{font-size:12px;color:var(--muted);max-width:900px;margin:15px 0 24px}
