@@ -1,14 +1,14 @@
-# Canberra and Kosciuszko · five nights
+# Canberra and Kosciuszko · six nights
 
-Christmas road trip, 25–30 December 2026: six days and five nights, styled after the [New Zealand itinerary](https://vitorsei.github.io/nz-trip-itinerary-2026/).
+Christmas road trip, 25–31 December 2026: seven days and six nights, styled after the [New Zealand itinerary](https://vitorsei.github.io/nz-trip-itinerary-2026/).
 
-- Canberra, 25–26 December: two nights; Christmas Day picnic break and pre-arranged arrival; Arboretum and lake on Boxing Day.
-- 27 December: Mount Ainslie summit is a firm morning stop, then Cooma lunch and park break en route to Jindabyne.
-- Jindabyne, 27–29 December: three nights in one base, with Thredbo/Kosciuszko lookout and Charlotte Pass on separate days.
-- 30 December: drive home via Cooma, Canberra and Goulburn with substantial breaks.
-- An optional sixth night in Canberra can split the long return; it is outside the five-night plan and budget.
-- Three adults and an infant, travelling in a Mercedes EQB 250. Includes exact-date accommodation search prices checked 8 November 2026, shared-unit versus two-room comparisons, and EV charging options. Confirm bed layout, cot arrangements, final booking prices and live charger status.
-- Route schematic, daily seasonal weather references, real photo galleries, source links and a browser-local checklist.
+- Canberra, 25–26 December: two nights; Christmas arrival, Arboretum and lake on Boxing Day.
+- 27 December: early drive via a short Cooma break to Thredbo. Choose Bundilla / Bullocks Hut (1.1km return, Grade 1) or Meadows Nature Track (3km circuit, Grade 3). Choice remains open.
+- Thredbo, 27–29 December: three nights; Kosciuszko on 28 December, Charlotte Pass on 29 December. Swap for weather.
+- 30 December: drive back to Canberra, rest, then Mount Ainslie drive-up summit. Overnight in Canberra.
+- 31 December: drive home via Goulburn.
+- Three adults and an infant in a Mercedes EQB 250. Initial Canberra search prices from 8 November are retained, but Thredbo and the return Canberra night remain unpriced. Former Jindabyne totals are retired.
+- Coloured daily route schematic, seasonal weather references, real photo galleries, source links and a browser-local checklist.
 
 ## Run and edit
 
